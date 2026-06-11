@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Ana sayfa -->
+  <url>
+    <loc>https://pinkangel.online/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://aquamiato.com/cdn/shop/files/brasilian-model-in-bikini-lyes-on-beach.png?v=1772532509&amp;width=1200</image:loc>
+      <image:title>Pink Angel – Luxury Swimwear &amp; Beachwear</image:title>
+      <image:caption>Feminine luxury swimwear and beachwear collections for women</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aquamiato.com/cdn/shop/files/51ac3e27530a89754d2ba814795b2b03.jpg?v=1780557817&amp;width=600</image:loc>
+      <image:title>Hollowed-Out Bikini Set</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aquamiato.com/cdn/shop/files/990d9ed0-0e5c-4631-a6d8-788ab45a7245.jpg?v=1780557817&amp;width=600</image:loc>
+      <image:title>3D Floral One-piece Swimwear</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aquamiato.com/cdn/shop/files/f701a4013ed708fd3b000c241ec12565.jpg?v=1780557817&amp;width=600</image:loc>
+      <image:title>Beaded Accessory Bikini</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aquamiato.com/cdn/shop/files/1a6b5f606e17feb17937c464087319f2.jpg?v=1780557817&amp;width=600</image:loc>
+      <image:title>Printed Triangle Bikini</image:title>
+    </image:image>
+  </url>
+
+</urlset>
