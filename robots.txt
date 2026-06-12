@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pinkangel.shop/sitemap.xml
+Sitemap: https://pinkangelon.online/sitemap.xml
